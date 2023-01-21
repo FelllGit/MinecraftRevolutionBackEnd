@@ -1,0 +1,39 @@
+body {
+    background-color:  rgb(26, 32, 44);
+}
+
+body h3, h2, h1 {
+    color: rgb(153, 159, 170);
+}
+
+body a {
+    color: rgb(239 68 68);
+    text-decoration: none;
+}
+
+#postname {
+    border-radius: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+}
+
+#postdescription {
+    margin-bottom: 10px;
+} 
+
+#postbutton {
+    border-radius: 10px;
+    margin-top: 10px;
+    width: 200px;
+}
+
+#deletebutton {
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 200px;
+}
+
+#tox-statusbar__branding {
+    visibility: hidden !important;
+}
